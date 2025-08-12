@@ -1,5 +1,5 @@
 {
-    "name": "ranium/laravel-fixerio",
+    "name": "iutrace/laravel-fixerio",
     "description": "Laravel package/client for fixer.io api, a foreign exchange rates and currency conversion API.",
     "type": "library",
     "license": "MIT",
@@ -8,6 +8,12 @@
             "name": "Abbas Ali",
             "email": "abbas@ranium.in",
             "homepage": "https://ranium.in",
+            "role": "Developer"
+        }
+        , {
+            "name": "Utrace",
+            "email": "sdiaz@utrace.tech",
+            "homepage": "https://utrace.tech",
             "role": "Developer"
         }
     ],
