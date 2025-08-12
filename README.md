@@ -12,6 +12,9 @@
         <img src="https://img.shields.io/packagist/l/ranium/laravel-fixerio" alt="License">
     </a>
 </p>
+# Laravel Fixerio (Laravel 9 Compatible Fork)
+
+> **Note**: This is a fork of [ranium/laravel-fixerio](https://github.com/ranium/laravel-fixerio) updated for Laravel 9 compatibility. All credit goes to the original authors.
 
 # Laravel Fixer.io
 
